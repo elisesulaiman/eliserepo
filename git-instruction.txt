@@ -1,0 +1,30 @@
+git config --global user.name "elisesulaiman"
+git config --global user.email "elizabeth555@mail.ru"
+
+
+
+
+git status command to check the status of our files, if they are added or not
+
+
+git add    - adds all files to the staging area
+git commit -m "message" - commits the files to the local repository
+git push - pushes the files to the remote repository
+git log - command to check history of our commits (our saved files)
+COMMIT - means save files and add message.  
+
+
+in git have 3 stages:
+1. working stage - files that are not added
+2. stages - after when we run command "git add ." - now files are staged
+3. commit - commited (saved files)
+
+
+FILES ALSO CAN 3 STATES
+1. UNMODIFIED
+2. MODIFIED
+3. STAGES
+
+In the file itself after you done changes "command S" - to save file
+for windows users "control S" to save file
+
